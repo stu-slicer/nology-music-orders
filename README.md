@@ -11,6 +11,12 @@ Some useful information:
 + no payment information is stored in the system, that is all handled by a third party application
 + the store keeps a record of their customers, including what they've purchased previously, and their addresses etc.
 
+**Note** the setters and getters have been left off intentionally for clarity. sa have any additional methods.
+
 #### Challenge:
 
 From the classes draw a simple Class Diagram that describes the current design.
+
+Feel free to add any extra attributes or methods if you want.
+
+
